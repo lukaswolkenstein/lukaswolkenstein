@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lukaswolkenstein
+- 👀 I’m interested in software and computers
+- 🌱 I’m currently learning how to code on python in hopes to one day become a software engineer. 
+- 💞️ I’m looking to collaborate on anything related to coding. 
+- 📫 How to reach me: email: lukasawolkenstein@gmail.com, instagram @lukaswolkenstein, snapchat @luke-wolk
